@@ -64,7 +64,7 @@ The field summary tool is a great way to assess the variability of all your vari
 ### Saving Reports to Your Computer
 If you want to output the full reports from your models for later reference, you can use the Render tool in Alteryx to create a file that contains the report.
 
-## Authors 
+## Author 
 [@masabumair](https://github.com/masabumair023)
 
   
